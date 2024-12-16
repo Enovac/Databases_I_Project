@@ -1,0 +1,1 @@
+The relational schema provided by the university in Milestone 2 serves as a standardized framework to unify the project across all students. This schema differs from the one I created in Milestone 1.
