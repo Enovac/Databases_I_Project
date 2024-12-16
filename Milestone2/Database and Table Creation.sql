@@ -1,7 +1,8 @@
 ﻿--2.2
 -- A)
 CREATE DATABASE Supermarket_Team_10;
-
+USE Supermarket_Team_10;
+--=================================Procedures===========================================
 -- B) Stored Procedure to Create All Tables
 CREATE PROCEDURE createAllTables
 AS
@@ -177,6 +178,7 @@ BEGIN
     DELETE FROM Employee;
 END;
 GO
+--=================================Views===========================================
 
 -- View: All Customer Accounts
 CREATE VIEW allCustomerAccounts AS
